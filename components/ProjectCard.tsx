@@ -28,7 +28,7 @@ export default function ProjectCard({ title, description, link, liveDemo, image 
             GitHub
           </a>
             <a
-              href={liveDemo}
+              href={link}
               target="_blank"
               rel="noopener noreferrer"
               className="px-3 py-1 text-[1.1rem] bg-blue-600 hover:bg-blue-500 text-white text-sm rounded-md transition"

@@ -5,7 +5,13 @@ import ProjectCard from "../components/ProjectCard";
 import Skills from "@/components/Skills";
 import { Mail, Github, Linkedin, Instagram } from "lucide-react";
 import { motion } from "framer-motion";
-
+import { ReactNode } from "react";
+interface ContactItemProps {
+  icon: ReactNode;
+  href: string;
+  label: string;
+  color: "blue" | "pink"; // restrict colors to the ones you use
+}
 export default function Home() {
   return (
     <>
@@ -167,7 +173,7 @@ export default function Home() {
   );
 }
 
-function ContactItem({ icon, href, label, color }: any) {
+function ContactItem({ icon, href, label, color }: ContactItemProps) {
   return (
     <div className="flex items-center gap-4 p-4 rounded-xl hover:bg-[#1f2937] transition-all group">
       <div className={`bg-${color}-500/20 p-2 rounded-full group-hover:bg-${color}-500/30`}>
