@@ -39,7 +39,7 @@ function NavLinks({ onClick = () => {} }: { onClick?: () => void }) {
       <div className="hover:text-white cursor-pointer" onClick={onClick}><a href="#skills">Skills</a></div>
       <div className="hover:text-white cursor-pointer" onClick={onClick}><a href="#contact">Contacts</a></div>
       <div className="hover:text-blue-400 cursor-pointer" onClick={onClick}>
-        <a href="https://drive.google.com/file/d/1EsOiTTsIf4a_rmj6IlDZ4WnizXgA7rsF/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+        <a href="https://drive.google.com/file/d/1ahEhvGUYrdky_lzOEILenlQKQgL1xHX1/view?usp=sharing" target="_blank" rel="noopener noreferrer">
           Resume
         </a>
       </div>

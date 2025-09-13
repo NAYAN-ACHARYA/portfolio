@@ -55,14 +55,14 @@ export default function Home() {
             <div className="text-gray-400 text-base sm:text-lg md:text-xl leading-relaxed text-justify">
               I&apos;m a Computer Science undergraduate at{" "}
               <span className="text-white font-medium">IIIT Jabalpur</span>, graduating in 2027, currently with a{" "}
-              <span className="text-white font-medium">9.2 CGPA</span>. I&apos;m passionate about{" "}
+              <span className="text-white font-medium">8.6 CGPA</span>. I&apos;m passionate about{" "}
               <span className="text-white">Data Structures, Algorithms</span>, and building scalable applications using the{" "}
               <span className="text-white">MERN stack</span>.
               <br />
               <br />
               I&apos;m a <span className="text-white">2⭐ CodeChef</span> rated coder and hold the{" "}
               <span className="text-white">Pupil</span> rank on Codeforces. I&apos;ve solved over{" "}
-              <span className="text-white">200 problems on LeetCode</span>, constantly improving my problem-solving skills.
+              <span className="text-white">350 problems on LeetCode</span>, constantly improving my problem-solving skills.
               <br />
               <br />
               I enjoy turning ideas into code and pushing my limits through projects and competitive programming challenges.
