@@ -61,7 +61,7 @@ export default function Home() {
               <br />
               <br />
               I&apos;m a <span className="text-white">2⭐ CodeChef</span> rated coder and hold the{" "}
-              <span className="text-white">Pupil</span> rank on Codeforces. I&apos;ve solved over{" "}
+              <span className="text-white">Specialist(1402)</span> rank on Codeforces. I&apos;ve solved over{" "}
               <span className="text-white">350 problems on LeetCode</span>, constantly improving my problem-solving skills.
               <br />
               <br />
