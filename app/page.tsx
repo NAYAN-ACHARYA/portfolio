@@ -60,9 +60,9 @@ export default function Home() {
               <span className="text-white">MERN stack</span>.
               <br />
               <br />
-              I&apos;m a <span className="text-white">2⭐ CodeChef</span> rated coder and hold the{" "}
-              <span className="text-white">Specialist(1402)</span> rank on Codeforces. I&apos;ve solved over{" "}
-              <span className="text-white">350 problems on LeetCode</span>, constantly improving my problem-solving skills.
+              I&apos;m a <span className="text-white">3⭐ CodeChef</span> rated coder and hold the{" "}
+              <span className="text-white">Specialist(1451 max)</span> rank on Codeforces. I&apos;ve solved over{" "}
+              <span className="text-white">450+ problems on LeetCode</span>, constantly improving my problem-solving skills.
               <br />
               <br />
               I enjoy turning ideas into code and pushing my limits through projects and competitive programming challenges.
